@@ -41,10 +41,10 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="80dp"
-                    android:layout_height="80dp"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
                     android:layout_marginBottom="60dp"
-                    android:src="@drawable/google_classroom" />
+                    android:src="@drawable/appicon" />
 
                 <EditText
                     android:textColorHint="@color/gray"
@@ -83,7 +83,7 @@
                     android:drawableTint="@android:color/darker_gray"
                     android:drawableLeft="@drawable/ic_baseline_person_24"
                     android:drawablePadding="16dp"
-                    android:hint="@string/name_user"
+                    android:hint="@string/Fullname"
                     android:padding="16dp"
                     android:textSize="18sp"
                     android:textColor="@color/black"
@@ -152,7 +152,7 @@
 
                     <CheckBox
                         android:checked="true"
-                        android:buttonTint="@color/main_color"
+                        android:buttonTint="@color/my_blue"
                         android:layout_gravity="center_vertical"
                         android:textColor="@color/black"
                         android:id="@+id/cb_student"
@@ -177,7 +177,7 @@
                     android:textColor="@color/white"
                     android:textStyle="bold"
                     android:textAllCaps="false"
-                    android:backgroundTint="@color/black"
+                    android:backgroundTint="@color/my_blue"
                     android:background="@drawable/drawable_button"
                     android:text="@string/register" />
 

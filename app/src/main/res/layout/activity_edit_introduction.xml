@@ -42,9 +42,9 @@
                 android:id="@+id/edt_introduction"
                 android:background="@drawable/drawable_edit_text_code_class"
                 android:layout_margin="10dp"
-                android:hint="@string/introduction"
+                android:hint="@string/description"
                 android:textColor="@color/blue_google"
-                android:textColorHint="@color/blue_google"
+                android:textColorHint="@color/common_google_signin_btn_text_light"
                 android:padding="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>

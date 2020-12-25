@@ -153,7 +153,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@android:color/transparent"
-                    android:hint="@string/introduction"
+                    android:hint="@string/Description"
                     android:padding="10dp"
                     android:textColorHint="@color/blue_google" />
             </com.google.android.material.textfield.TextInputLayout>

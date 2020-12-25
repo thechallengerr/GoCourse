@@ -26,7 +26,7 @@
         android:id="@+id/tv_introduction"
         android:layout_width="0dp"
         android:textColor="@color/black"
-        android:text="@string/introduction"
+        android:text="@string/Description"
         android:padding="10dp"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"

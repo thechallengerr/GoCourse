@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Classroom</string>
+    <string name="app_name">GoCourse</string>
+    <string name="my_course">My Courses</string>
     <string name="not_network">No internet connection available</string>
     <string name="refresh">Refresh</string>
     <string name="repos">Send feedback</string>
@@ -7,7 +8,7 @@
     <string name="slogan">Classroom communication saves time, and stays organized.</string>
     <string name="teacher">Teacher</string>
     <string name="subtitle">Subtitle</string>
-    <string name="name_course">Name Course</string>
+    <string name="name_course">Course Name</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
@@ -17,12 +18,13 @@
     <string name="register">Register</string>
     <string name="student">Student</string>
     <string name="gender">Gender</string>
-    <string name="name_user">Name User</string>
+    <string name="name_user">User Name</string>
+    <string name="Fullname">Fullname</string>
     <string name="password_repeat">Password Repeat</string>
     <string name="work">Work</string>
     <string name="setting">Setting</string>
     <string name="help">Help</string>
-    <string name="change_image_user">Change Image User</string>
+    <string name="change_image_user">Change profile picture</string>
     <string name="camera">Camera</string>
     <string name="gallery">Gallery</string>
     <string name="log_out">Log Out</string>
@@ -30,9 +32,9 @@
     <string name="_0">0$</string>
     <string name="title">Title</string>
     <string name="rate">Rate</string>
-    <string name="introduction">Introduction</string>
+    <string name="Description">Course Description</string>
     <string name="_5_0">5.0</string>
-    <string name="pay_course">Pay Course</string>
+    <string name="pay_course">Purchase</string>
     <string name="view_all_course">View All Course</string>
     <string name="cancel_course">Cancel Course</string>
     <string name="search">Search</string>
@@ -44,7 +46,7 @@
     <string name="class_code">Class Code</string>
     <string name="how_to_log_in_with_class_code">How to log in with class code?</string>
     <string name="use_a_licensed_account">Use a licensed account</string>
-    <string name="use_class_code_contains_6_7_letters_and_numbers_with_no_spaces_to_learn_characters">Use class code, contains more than 6 letters and numbers, with no spaces to learn characters</string>
+    <string name="use_class_code_contains_6_7_letters_and_numbers_with_no_spaces_to_learn_characters">Use class code, contains more than 6 letters and numbers, with no spaces </string>
     <string name="create_class_join">Create Class Join</string>
     <string name="create_class">Create Class</string>
     <string name="you_need_email_authentication_for_the_next_operation">You need email authentication for the next operation</string>

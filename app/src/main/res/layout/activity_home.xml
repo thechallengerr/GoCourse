@@ -76,12 +76,13 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
                 android:layout_gravity="center"
                 android:layout_margin="10dp"
-                android:background="@drawable/google_classroom"
-                android:layout_width="100dp"
-                android:layout_height="100dp"/>
+                android:background="@drawable/appicon" />
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rv_course_"
                 android:layout_width="match_parent"
