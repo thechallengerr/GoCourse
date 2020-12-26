@@ -5,7 +5,7 @@
     <string name="refresh">Refresh</string>
     <string name="repos">Send feedback</string>
     <string name="start">Start</string>
-    <string name="slogan">Classroom communication saves time, and stays organized.</string>
+    <string name="slogan">GoCourse provide you with covenient experience of learning.Sit still, enjoy your course !</string>
     <string name="teacher">Teacher</string>
     <string name="subtitle">Subtitle</string>
     <string name="name_course">Course Name</string>
@@ -66,4 +66,5 @@
     <string name="confirm">Confirm</string>
     <string name="cancel">Cancel</string>
     <string name="lesson">Lesson</string>
+    <string name="Id_introduction">* ID is a string following youtube.com/ (ex: https://youtu.be/SkB-eRCzWIU then id is SkB-eRCzWIU)</string>
 </resources>
